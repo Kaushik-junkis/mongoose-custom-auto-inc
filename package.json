@@ -1,0 +1,31 @@
+{
+  "name": "mongoose-custom-auto-inc",
+  "version": "1.0.0",
+  "description": "customize mongoose auto increment functionality.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kaushik-junkis/mongoose-custom-auto-inc.git"
+  },
+  "dependencies": {
+    "extend": "^3.0.0"
+  },
+  "peerDependencies": {
+    "mongoose": "^4.1.12"
+  },
+  "devDependencies": {
+    "async": "*",
+    "chai": "*",
+    "mocha": "*",
+    "mongoose": "^4.1.12"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": {
+    "name": "kaushik",
+    "email": "kaushik@xhtmljunkies.com",
+    "url": "git://github.com/Kaushik-junkis/mongoose-custom-auto-inc.git"
+  },
+  "license": "ISC"
+}
